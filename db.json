@@ -1,0 +1,117 @@
+{
+    "bg": "https://www.usfigureskating.org/sites/default/files/media-library/Privacy%20Policy%20Page%20Header%20Image.jpg",
+    "title": "Quiz CSS da Alura",
+    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/QxXmaFym0ZDgWaDNc1/giphy.gif",
+        "title": "Quais são as modalidades oficiais na patinação artística no gelo?",
+        "description": "Essa é pra aquecer",
+        "answer": 0,
+        "alternatives": [
+          "Masculino, feminino, pares e dança",
+          "Progama curto e longo",
+          "Solo e pares",
+          "Júnior e Sênior"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/6AnZNduY0iLWzr6RiG/giphy.gif",
+        "title": "Em que ano e qual país foi sede da última Olímpiada de Inverno, em que houve competição de patinação no gelo, antes da pandemia?",
+        "description": "Faz tempo em haha",
+        "answer": 1,
+        "alternatives": [
+           "2017, Rússia",
+           "2018, Coréia do Sul",
+           "2019, Japão",
+           "2020, Finlândia"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/l4pT75Z5vLkeCvCWQ/giphy.gif",
+        "title": "Qual a diferença da lâmina da patinação artística, de velocidade e a de hóquei?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+           "A lâmina do patins de hóquei é mais longa",
+           "A lâmina do patins de velocidade é mais curta",
+           "A lâmina do patins artístico tem um serrilhado na ponta",
+           "Nenhuma diferença"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/hxPBbJkRUCnSDJSlEQ/giphy.gif?",
+        "title": "A competição é dividia em duas apresentações, o programa curto e o longo. Qual a duração de cada um?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "Curto 3min e longo 4min",
+           "Curto 2min e longo 3min",
+           "Curto 2min e longo 4min",
+           "Curto 2min40s e longo 4min30s"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/3o752hPORXj0uty5H2/giphy.gif",
+        "title": "Qual a diferença da patinação de pares e a dança no gelo?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Na dança no gelo, o foco é apenas a sincronia dos movimentos",
+           "Nos pares, há movimentos específicos como: a espiral da morte, saltos lançados e levantamentos acima da cabeça"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/s0ka6rZlRsqoU/giphy.gif",
+        "title": "Qual o nome do salto que foi banido das competições em 1976 por ser considerado perigoso?",
+        "description": "Executá-lo pode gerar desclassificação",
+        "answer": 2,
+        "alternatives": [
+           "Lutz",
+           "Mortal flip",
+           "Mortal à retaguarda",
+           "Espiral da morte"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/mxCaU32J7DvneYyoWE/giphy.gif",
+        "title": "Qual o nome do salto em que o atleta salta de frente?",
+        "description": "Um dos mais difíceis de executar",
+        "answer": 0,
+        "alternatives": [
+           "Triple axel",
+           "Triple loop",
+           "Triple lutz",
+           "Quádruplo salchow"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/nxOhf4cVAmHB3DZvL3/giphy.gif",
+        "title": "Quem foi o primeiro patinador medalhista de ouro em duas olimpíadas consecutivas desde 1952?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "Javier Fernández",
+           "Shoma Uno",
+           "Nathan Chen",
+           "Yuzuru Hanyu"
+        ]
+      }
+    ],
+    "external": [
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-marvel.omariosouto.vercel.app/"
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#5E92BF",
+        "secondary": "#7763BF",
+        "mainBg": "#011526",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px",
+      "borderRadiusRound": "50px"
+    }
+  }
